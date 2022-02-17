@@ -29,4 +29,5 @@ public class Main {
         System.out.println("The area of the rectangle is: " + area);
         return area;
     }
+    //I changed something
 }
